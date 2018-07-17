@@ -30,8 +30,8 @@ body{
 .container{
     clear: both;
     background-color: white;
-    height: 800px;
-    width: 75%;
+    height: 910px;
+    width: 50%;
     position: absolute;
     margin:30px;
 
@@ -59,6 +59,10 @@ image{
     margin-top: 60px;
     position: sticky;
     text-align: center;
-    width:130%
-    
+    width:200%;
+}
+.game{
+    text-align: center;
+    background-color: rgb(46, 160, 175);
+    width:200px;
 }

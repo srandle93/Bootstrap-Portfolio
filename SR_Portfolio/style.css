@@ -9,6 +9,10 @@ body{
     
 
 }
+.nav-item{
+    border-color: blue;
+    border:2;
+}
 
 .navbar-brand {
     height:70px;
@@ -31,8 +35,7 @@ body{
     clear: both;
     background-color: white;
     height: 910px;
-    width: 50%;
-    position: absolute;
+    width: 75%;
     margin:30px;
 
 }
@@ -50,11 +53,12 @@ image{
     height:200px;
     border: 10px;
     margin:25px;
-    padding:25px; 
+    padding:25px;
+    border-radius: 50%;
 }
 .card{
-     Height:70px;
-     background-color: rgb(46, 160, 175);
+    Height:70px;
+    background-color: rgb(46, 160, 175);
     border: 10px;
     margin-top: 60px;
     position: sticky;

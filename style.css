@@ -52,3 +52,7 @@ image{
     margin:25px;
     padding:25px; 
 }
+
+.cirlce{
+    border-radius: 50%;
+}
